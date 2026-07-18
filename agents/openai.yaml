@@ -1,0 +1,4 @@
+interface:
+  display_name: "品牌研究（Brand Research）"
+  short_description: "生成完整品牌研究内容，支持导入已有资料并按需选择输出格式"
+  default_prompt: "Use $brand-research to research #星巴克, incorporate my attached materials or --materials path, present the complete cited research content first, and let me choose any optional file formats afterward."
